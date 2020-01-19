@@ -11,7 +11,7 @@
 - HTML,JavaScript,CSS
 # Works
 - ときめく恋
-<iframe src="https://www.openprocessing.org/sketch/825174/embed/" width="600" height="800"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/825174/embed/" width="600" height="500"></iframe>
 
 # History
 - 2019年 角川ドワンゴ学園 [N高等学校](https://nnn.ed.jp/) 入学
