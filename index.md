@@ -1,11 +1,12 @@
-# dream
-10000ピースのジグソーパズルを作ることが夢です
+![うちの猫](IMG_20191010_172101.jpg)
 
 # Profile
 - マシュー
 - 鹿児島県
 - ジグソーパズル、切り絵
-## Skills
+# dream
+10000ピースのジグソーパズルを作ることが夢です
+# Skills
 - HTML,JavaScript,CSS
 
 # History
