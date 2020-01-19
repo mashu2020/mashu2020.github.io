@@ -14,7 +14,6 @@
 - 12月中旬　レポートが終わったので入門コースをはじめる
 - 1月19日　入門コースを二章の途中まで終わらせ、ポートフォリオ作った。
 
-
-https://youtu.be/-kgOFJG881I
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-kgOFJG881I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
