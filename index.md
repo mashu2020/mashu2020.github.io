@@ -18,8 +18,3 @@
 - 12月　レポート終わったんで入門コースを始める\^o^/
 - 2020年1月19日　このポートフォリオサイトを作る
 - 3月29日　4月からまたレポート始まるー　RTA勢やばかったなーと嘆く
-
-
-<iframe width="550" height="315" src="https://www.youtube.com/embed/-kgOFJG881I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
